@@ -29,6 +29,8 @@ Analyze Acme Co.'s multi-year sales data to:
 - 💰 Average profit margin: **37.5%** across all channels
 
 ---
+<img width="615" height="342" alt="image" src="https://github.com/user-attachments/assets/c3ea3ac7-d42b-4c5d-8177-0cd7f6b9f83c" />
+
 
 ## ✨ Key Features
 
